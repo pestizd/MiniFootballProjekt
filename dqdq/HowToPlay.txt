@@ -1,0 +1,16 @@
+MiniFootball
+
+Platform: Android
+
+1-2 Players
+Local Multyplayer
+
+Upute:
+Igra podržava easy, medium, hard težine igranja protiv kompjuterski kontroliranog protivnika,
+te igranje do dva igrača u lokalnom multyplayeru. Svaki igrač odabire svoj tim (Barcelona ili RealMadrid) te prstima pomiče svojeg igrača
+i pokušava zabiti gol protivničkom igraču. Meč traje dok jedan od igrača ne zabije 2 gola. Igra podržava restart opciju pa tako igrači mogu
+igrati više partija za redom, a igra će im pamtiti rezultat. 
+
+Dodatno:
+Igra je dobro optimizirana te će raditi na većini android uređaja, čak i onim malo starijim.
+Igrači ne mogu prelaziti u tuđe polje.
